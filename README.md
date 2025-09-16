@@ -44,11 +44,7 @@ Representation-Learning-Project/
 ### Prerequisites
 - Python 3.9+
 - PyTorch (with CUDA if available)
-- Required packages:
-  ```bash
-  pip install -r requirements.txt
-  ```
-  *(Provide a `requirements.txt` file with numpy, torch, matplotlib, scikit-image, etc.)*
+  Trained on HPC Server with 4x GPU
 
 ### Running the Code
 
