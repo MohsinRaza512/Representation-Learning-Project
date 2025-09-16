@@ -1,0 +1,9 @@
+import pandas as pd
+
+# Load the CSV file
+df = pd.read_csv("results/test_prompt_robustness/test_prompt_robustness_results.csv")
+
+# Print the column names
+print("Columns in the CSV:")
+print(df.columns.tolist())
+
